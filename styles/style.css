@@ -1,0 +1,41 @@
+    /* Reset de estilos */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #1f6feb;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #1f6feb;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
